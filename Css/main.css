@@ -7,7 +7,7 @@
 }
 /* Start Header */
 header {
-    background-image: url(Images/hero-bg.jpg);
+    background-image: url(../Images/hero-bg.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -380,7 +380,7 @@ header .overlayblack {
 
 /* Start Section office */
 #bg-office {
-    background-image: url(Images/post-3.jpg);
+    background-image: url(../Images/post-3.jpg);
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -503,7 +503,7 @@ header .overlayblack {
 .carousal {
     display: flex;
     justify-content: center;
-    background-image: url(Images/overlay-bg.jpg);
+    background-image: url(../Images/overlay-bg.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -707,7 +707,7 @@ header .overlayblack {
 
 /* Start Contact */
 #Contact {
-    background-image: url(Images/overlay-bg.jpg);
+    background-image: url(../Images/overlay-bg.jpg);
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
